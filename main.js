@@ -21,3 +21,4 @@ salario()
 
 arreglo = [1,23,4,5,6]
 arreglo.map((element)=>console.log(element*2))
+arreglo.find((element)=>console.log(element))
