@@ -14,3 +14,9 @@ p{
 body {
     background-color: blue;
 }
+
+.otrodiv{
+    background-color: aqua;
+    width: 100px;
+    height: 80px;
+}

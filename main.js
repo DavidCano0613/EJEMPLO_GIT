@@ -18,3 +18,6 @@ function salario(hour = parseFloat(prompt("Ingrese sus horas trabajadas"))){
 }
 
 salario()
+
+arreglo = [1,23,4,5,6]
+arreglo.map((element)=>console.log(element*2))
